@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    }
+]

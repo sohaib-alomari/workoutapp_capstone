@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="circular_bar_width_and_height">480dp</dimen>
+    <dimen name="image_flipper_width_and_height">375dp</dimen>
+    <dimen name="steps_scrollview_width_and_height">300dp</dimen>
+
+</resources>

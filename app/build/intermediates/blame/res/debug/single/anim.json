@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\close_next.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\close_next.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\open_next.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\open_next.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\3fd11519de19139f06ccaae5f5d75c63b82a6329\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\close_main.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\close_main.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\3fd11519de19139f06ccaae5f5d75c63b82a6329\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\3fd11519de19139f06ccaae5f5d75c63b82a6329\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\open_main.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\open_main.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_leave.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\animation_leave.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_enter.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\animation_enter.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_out.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\anim\\fade_in_out.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\3fd11519de19139f06ccaae5f5d75c63b82a6329\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\3fd11519de19139f06ccaae5f5d75c63b82a6329\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\3fd11519de19139f06ccaae5f5d75c63b82a6329\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\fc6ef397d9356e94e2584d91150568926200f25b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\anim\\decelerate_cubic.xml"
+    }
+]

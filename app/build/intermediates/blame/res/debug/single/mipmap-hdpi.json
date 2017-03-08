@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\empty_photo.png",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\mipmap-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_pause_white_24dp.png",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_play_arrow_white_24dp.png",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launcher_ic.png",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\mipmap-hdpi\\launcher_ic.png"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\workout_logo.png",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\mipmap-hdpi\\workout_logo.png"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_add_white_24dp.png",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_add_white_24dp.png"
+    }
+]

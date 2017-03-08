@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">978764088152-qnokh50t7qcplf4lpou32et8bo85b6pp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://workout-50887.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">978764088152</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9L0ILA1MJEMLIaC2PcKVW3nYDWSW_SA8</string>
+    <string name="google_app_id" translatable="false">1:978764088152:android:b6f596b0fe176ec0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9L0ILA1MJEMLIaC2PcKVW3nYDWSW_SA8</string>
+    <string name="google_storage_bucket" translatable="false">workout-50887.appspot.com</string>
+</resources>

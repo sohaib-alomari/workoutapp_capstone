@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978764088152",
+    "firebase_url": "https://workout-50887.firebaseio.com",
+    "project_id": "workout-50887",
+    "storage_bucket": "workout-50887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978764088152:android:b6f596b0fe176ec0",
+        "android_client_info": {
+          "package_name": "com.udacity.fitness_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978764088152-qnokh50t7qcplf4lpou32et8bo85b6pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9L0ILA1MJEMLIaC2PcKVW3nYDWSW_SA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

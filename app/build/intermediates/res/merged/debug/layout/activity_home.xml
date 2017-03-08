@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/primary_color"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+    <com.gigamole.navigationtabbar.ntb.NavigationTabBar
+        android:id="@+id/ntb"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        app:ntb_active_color="#20124f"
+        app:ntb_animation_duration="400"
+        app:ntb_badge_bg_color="@color/dark_primary_color"
+        app:ntb_badge_gravity="top"
+        app:ntb_badge_position="center"
+        app:ntb_badge_size="10sp"
+        app:ntb_badge_title_color="#20124f"
+        app:ntb_bg_color="@color/divider_color"
+        app:ntb_icon_size_fraction="0.5"
+        app:ntb_inactive_color="@color/dark_primary_color"
+        app:ntb_preview_colors="@array/rainbow"
+        app:ntb_scaled="true"
+        app:ntb_swiped="true"
+        app:ntb_tinted="true"
+        app:ntb_title_mode="all"
+        app:ntb_title_size="10sp"
+        app:ntb_titled="true" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 51,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\Alomari\\.android\\build-cache\\6d77dc71a53e2ebb99da571f33b980e44459166a\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 51,
+                        "endOffset": 144
+                    }
+                }
+            }
+        ]
+    }
+]

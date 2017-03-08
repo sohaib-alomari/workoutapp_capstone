@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_about.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\xml\\pref_about.xml"
+    },
+    {
+        "merged": "C:\\Workout\\workoutapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\Workout\\workoutapp\\app\\src\\main\\res\\xml\\widget_info.xml"
+    }
+]
