@@ -28,7 +28,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- *
  * FragmentCategories is created to display workout category and add it to tab.
  * Created using Fragment.
  */
