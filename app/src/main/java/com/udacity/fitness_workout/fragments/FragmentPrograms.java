@@ -21,7 +21,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- *
  * FragmentPrograms is created to display days program and add it to tab.
  * Created using Fragment.
  */
