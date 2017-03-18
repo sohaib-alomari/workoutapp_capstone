@@ -32,7 +32,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- *
+ *Sohaib Alomari
  * ActivityDetail is created to display workout detail.
  * Created using AppCompatActivity.
  */
