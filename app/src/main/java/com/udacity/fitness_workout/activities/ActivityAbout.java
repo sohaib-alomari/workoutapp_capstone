@@ -9,7 +9,7 @@ import com.lb.material_preferences_library.custom_preferences.Preference;
 import com.udacity.fitness_workout.R;
 
 /**
- *
+ *Sohaib Alomari
  * ActivityAbout is created to display app information such as app name,
  * version, and developer name. Created using PreferenceActivity.
  */
