@@ -7,7 +7,7 @@ import android.util.TypedValue;
 import com.udacity.fitness_workout.R;
 
 /**
- *
+ *Sohaib Alomari
  * ActivityBase is created to handle scrolling page event.
  * Modified from ObservableScrollView library.
  */
